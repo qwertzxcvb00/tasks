@@ -1,0 +1,216 @@
+#alback {
+	background-color:#DEDEDE;
+}
+
+#ttblock{
+	background-color:#333333;
+	position:absolute;
+	top:0;
+	right:0;
+	left:0;
+	height:60px;
+}
+
+#titlesel{
+	position:absolute;
+	right:20px;
+	top:0;
+}
+
+#titlesel a:link{
+	color:white;
+}
+
+#titlesel a:visited{
+	color:#9C9C9C;
+}
+
+#titlesel li{
+	float:left;
+	margin:10px;
+	margin-top:6px;
+}
+
+#ttblock img{
+	margin-left:60px;
+	margin-top:10px;
+}
+
+.fstln {
+	text-indent:2em;
+}
+
+.sectt{
+	color:#536275;
+}
+
+.author span{
+	color:#5C687E;
+	font-size:12px;
+}
+
+#fstblock{
+	padding:30px 20px;
+	margin:90px 20px 0px;
+	background-color:white;
+}
+
+#secblock{
+	padding:15px 20px;
+	margin:30px 20px 20px;
+	background-color:white;
+}
+
+#lstnn li{
+	list-style-type:none;
+	margin-top:8px;
+	margin-bottom:8px;
+}
+
+#order li{
+	margin-top:8px;
+	margin-bottom:8px;
+	font-weight:bold;
+}
+
+#ptoblock{
+	padding:15px 20px;
+	margin:30px 20px 20px;
+	background-color:white;
+}
+
+#photos li{
+	list-style-type:none;
+	border-style:groove;
+}
+
+.inlnblock{
+	width:450px;
+	padding-bottom:40px;
+	margin:40px;
+	text-align:center;
+}
+
+
+#lstblock{
+	padding:15px 20px;
+	margin:30px 20px 20px;
+	background-color:white;
+}
+
+#onesen{
+	margin-bottom:0px;
+	padding-bottom:0px;
+}
+
+#testtable {
+	border-style:solid;
+	border-color:#CDCDCD;
+	border-width:1px 0px 0px 1px;
+	width:97%;
+	margin-top:0px;
+}
+
+#testtable td{
+	border-style:solid;
+	border-color:#CDCDCD;
+	border-width:0px 1px 1px 0px;
+	padding-left:5px;
+}
+
+#testtable th{
+	background-color:#333333;
+	color:white;
+	font-weight:bold;
+	padding-left:5px;
+}
+
+#accoblock{
+	background-color:white;
+	padding:15px 20px;
+	margin:30px 20px 20px;
+	
+}
+
+#msginput{
+	font-size:15px;
+	padding:10px;
+}
+
+
+#msginput div{
+	margin:1px;
+}
+
+#msginput input{
+	margin-left:200px;
+	margin:5px;
+	height:18px;
+	
+}
+
+#myemail{
+	position:relative;
+	padding-left:228px;
+}
+
+#password {
+	position:relative;
+	padding-left:257px;
+}
+
+#passwordsec{
+	position:relative;
+	padding-left:227px;
+}
+
+#mysex{
+	position:relative;
+	padding-left:304px;
+}
+
+#mycity{
+	position:relative;
+	padding-left:307px;
+}
+
+#myhobby{
+	position:relative;
+	padding-left:304px;
+}
+
+#mydiscribe{
+	position:relative;
+	padding-left:278px;
+}
+
+#msginput span{
+	display:block;
+	color:gray;
+	font-size:12px;
+	margin-bottom:3px;
+	padding:0px;
+}
+
+#submitbtn {
+	width:99%;
+	height:40px !important;
+	background-color:#3355D0;
+	color:white;
+	font-weight:bold;
+	font-size:15px
+	
+}
+
+#bottomsign{
+	padding:25px;
+}
+
+#bottomsign{
+	width:100%;
+	background-color:black;
+	color:white;
+	text-align:center;
+	height:50px;
+}
+
